@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theaddi95
-- 👀 I’m interested in biology, biomedical and biophysical research. 
+- 👀 I’m interested in biology, as well as biomedical and biophysical research. 
 - 🌱 I’m currently learning how to present data in a beautiful way and get the most out of multidimensional data. Always interested in learning new (bio)informatic tools for analysing all this data around.
 
 
